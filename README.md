@@ -1,0 +1,2 @@
+# assets
+ulozisko pre GJH
